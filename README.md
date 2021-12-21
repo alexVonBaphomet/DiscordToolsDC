@@ -8,7 +8,7 @@ I got scammed by tools creators many times and they gave me only DM mass tools b
 
 The problem is that the phone verification does not work properly and gets disabled in a few days but it works properly and lasts for a week and it's good and enough for me. (It got patched because of Discord's frequent updates)
 
-I don't want to leak all of their tools and throw all their work in water in seconds, but I will leak it for cheaper and resell it for <s>750$</s>. dc: Sliiiide#4947
+I don't want to leak all of their tools and throw all their work in water in seconds, but I will leak it for cheaper and resell it for <s>750$</s>. dc: Sliiiide#4348
 
 INSTRUCTIONS:
 
@@ -22,4 +22,4 @@ if you get any errors, just look at them see whats missing and install it using 
 
 you also need to download node js.
 
-IF YOU WILL NEED HELP OR CAN'T DO SOMETHING PROPERLY, DM ME ON DISCORD: Sliiiide#4947
+IF YOU WILL NEED HELP OR CAN'T DO SOMETHING PROPERLY, DM ME ON DISCORD: Sliiiide#4348
