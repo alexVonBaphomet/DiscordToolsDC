@@ -2,7 +2,7 @@
 Mass DM Tools. Easy To Use. Account generator known as ExoCord. User ID Joiner. Leaver. DM spam. Chat spam. Friend request spam. Server Destroyer And Much Other Options.
 
 
-I paid 750$ in all tools together.
+I paid 150$ in all tools together.
 
 I got scammed by tools creators many times and they gave me only DM mass tools but I have collected all the best tools together and I have found other token generators and I have already bought them.
 
