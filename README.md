@@ -8,7 +8,7 @@ I got scammed by tools creators many times and they gave me only DM mass tools b
 
 The problem is that the phone verification does not work properly and gets disabled in a few days but it works properly and lasts for a week and it's good and enough for me. (It got patched because of Discord's frequent updates)
 
-I don't want to leak all of their tools and throw all their work in water in seconds, but I will leak it and resell it for <s>750$</s> 60$. xD dc: Sliiiide#4947
+I don't want to leak all of their tools and throw all their work in water in seconds, but I will leak it and resell it for <s>750$</s>. xD dc: Sliiiide#4947
 
 INSTRUCTIONS:
 
