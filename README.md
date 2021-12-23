@@ -23,3 +23,5 @@ if you get any errors, just look at them see whats missing and install it using 
 you also need to download node js.
 
 IF YOU WILL NEED HELP OR CAN'T DO SOMETHING PROPERLY, JOIN DISCORD: https://discord.gg/BZtqtRKh35
+![Screenshot_5](https://user-images.githubusercontent.com/66479395/147226133-857ba5f5-0ead-414e-b388-a312ce1c6c5b.png)
+![Screenshot_6](https://user-images.githubusercontent.com/66479395/147226138-3c56923a-87e9-48cf-99a7-8aa21c407f17.png)
